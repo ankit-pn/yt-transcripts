@@ -9,5 +9,6 @@ Readable, hand-edited transcripts of talks and videos.
 - [Ilya Sutskever — "We're moving from the age of scaling to the age of research" (Dwarkesh Patel, 2025)](ilya-sutskever-dwarkesh-2025-age-of-research.md) — [video](https://www.youtube.com/watch?v=aR20FWCCjAs)
 - [Ilya Sutskever — An Observation on Generalization (Compression & Unsupervised Learning, Simons Institute 2023)](ilya-sutskever-an-observation-on-generalization-compression.md) — [video](https://www.youtube.com/watch?v=6DQEEMa5pg0)
 - [Richard S. Sutton — Insights Into Intelligence (Upper Bound 2023 keynote)](richard-sutton-upper-bound-2023-insights-into-intelligence.md) — [video](https://www.youtube.com/watch?v=n4aev-6Z6U4)
+- [Vizuara — Introduction to Reinforcement Learning and PPO for Robotics (VLA for Autonomous Driving)](vizuara-intro-to-rl-and-ppo-for-robotics.md) — [video](https://www.youtube.com/watch?v=tyip9W10pzc)
 
 > Transcripts are derived from YouTube's auto-generated captions, then hand-edited into clean, readable paragraphs with corrected punctuation, proper nouns, and technical terms. Wording is kept faithful to the talk.
