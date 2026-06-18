@@ -12,4 +12,10 @@ Readable, hand-edited transcripts of talks and videos.
 - [Vizuara — Introduction to Reinforcement Learning and PPO for Robotics (VLA for Autonomous Driving)](vizuara-intro-to-rl-and-ppo-for-robotics.md) — [video](https://www.youtube.com/watch?v=tyip9W10pzc)
 - [Vizuara — The LLM Interview Series #1: What exactly is the KV Cache?](vizuara-llm-interview-1-what-is-the-kv-cache.md) — [video](https://www.youtube.com/watch?v=CxRGWfcGVbs)
 
+## Explainers
+
+Standalone, first-principles deep-dives (not transcripts).
+
+- [The KV Cache, From First Principles](kv-cache-from-first-principles.md) — a self-contained explanation of the KV cache built to be unforgettable; companion to the KV Cache interview transcript above.
+
 > Transcripts are derived from YouTube's auto-generated captions, then hand-edited into clean, readable paragraphs with corrected punctuation, proper nouns, and technical terms. Wording is kept faithful to the talk.
