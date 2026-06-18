@@ -11,6 +11,7 @@ Readable, hand-edited transcripts of talks and videos.
 - [Richard S. Sutton — Insights Into Intelligence (Upper Bound 2023 keynote)](richard-sutton-upper-bound-2023-insights-into-intelligence.md) — [video](https://www.youtube.com/watch?v=n4aev-6Z6U4)
 - [Vizuara — Introduction to Reinforcement Learning and PPO for Robotics (VLA for Autonomous Driving)](vizuara-intro-to-rl-and-ppo-for-robotics.md) — [video](https://www.youtube.com/watch?v=tyip9W10pzc)
 - [Vizuara — The LLM Interview Series #1: What exactly is the KV Cache?](vizuara-llm-interview-1-what-is-the-kv-cache.md) — [video](https://www.youtube.com/watch?v=CxRGWfcGVbs)
+- [JT Yu — Why AI Can Never Escape Turing's 1936 Proof](jt-yu-why-ai-cannot-escape-turings-1936-proof.md) — [video](https://www.youtube.com/watch?v=u_5erLilDXY)
 
 ## Explainers
 
