@@ -18,5 +18,6 @@ Readable, hand-edited transcripts of talks and videos.
 Standalone, first-principles deep-dives (not transcripts).
 
 - [The KV Cache, From First Principles](kv-cache-from-first-principles.md) — a self-contained explanation of the KV cache built to be unforgettable; companion to the KV Cache interview transcript above.
+- [The Gödel Universe — Closed Timelike Curves in General Relativity](godel-universe-closed-timelike-curves-explainer.md) — first-principles write-up of Gödel's rotating-universe solution and what it reveals about causality; inspired by the PBS Space Time [video](https://www.youtube.com/watch?v=dZaqLgezRNE).
 
 > Transcripts are derived from YouTube's auto-generated captions, then hand-edited into clean, readable paragraphs with corrected punctuation, proper nouns, and technical terms. Wording is kept faithful to the talk.
